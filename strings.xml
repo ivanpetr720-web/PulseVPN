@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PulseVPN</string>
+    <string name="connect">CONNECT</string>
+    <string name="disconnect">ОТКЛЮЧИТЬ</string>
+    <string name="connecting">ПОДКЛЮЧЕНИЕ…</string>
+    <string name="connected">ПОДКЛЮЧЁН</string>
+    <string name="not_connected">НЕ ПОДКЛЮЧЁН</string>
+    <string name="servers">Серверы</string>
+    <string name="tab_home">Защита</string>
+    <string name="tab_servers">Серверы</string>
+    <string name="tab_account">Аккаунт</string>
+    <string name="smart_select">Лучший сервер</string>
+    <string name="smart_label">⚡ SMART SELECT</string>
+    <string name="free_plan">Бесплатный план</string>
+    <string name="buy_premium">Купить Premium</string>
+    <string name="protocol_wg">WireGuard</string>
+    <string name="protocol_ovpn">OpenVPN</string>
+    <string name="protocol_auto">Auto</string>
+    <string name="download">DOWNLOAD</string>
+    <string name="upload">UPLOAD</string>
+    <string name="your_ip">ВАШ IP</string>
+    <string name="ms">ms</string>
+</resources>

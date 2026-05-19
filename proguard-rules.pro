@@ -1,0 +1,3 @@
+-keep class com.pulsevpn.app.** { *; }
+-keepattributes *Annotation*
+-dontwarn okhttp3.**

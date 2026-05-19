@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green">#00FF88</color>
+    <color name="green_dark">#00994D</color>
+    <color name="green_mid">#00CC66</color>
+    <color name="green_10">#1A00FF88</color>
+    <color name="green_20">#3300FF88</color>
+    <color name="bg">#050D0F</color>
+    <color name="bg2">#0A1A1F</color>
+    <color name="bg3">#0F2328</color>
+    <color name="card">#0D1E24</color>
+    <color name="border">#2600FF88</color>
+    <color name="text">#E8F5F0</color>
+    <color name="text2">#8CA8A0</color>
+    <color name="red">#FF4466</color>
+    <color name="yellow">#FFCC00</color>
+    <color name="purple">#8888FF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>
